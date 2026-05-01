@@ -21,14 +21,6 @@ You only need curiosity, discipline, and the willingness to adapt.
 
 ---
 
-## Connect With Me
-
-- LinkedIn: [INSERT YOUR LINKEDIN URL]
-- GitHub: [INSERT YOUR GITHUB PROFILE URL]
-- Website: [INSERT YOUR WEBSITE OR PORTFOLIO URL]
-
----
-
 ## Designed For
 
 - Complete beginners
